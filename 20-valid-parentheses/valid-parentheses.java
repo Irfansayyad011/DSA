@@ -15,7 +15,6 @@ class Solution {
             }
         }
         return stack.isEmpty();
-
         // StringBuilder sb = new StringBuilder(s);
         // int i=0;
         // while(i < sb.length()-1){
